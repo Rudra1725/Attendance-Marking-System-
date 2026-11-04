@@ -1,4 +1,4 @@
-# 📜 AttendFlow – Smart Attendance Tracker
+## 📜 AttendFlow – Smart Attendance Tracker
 
 AttendFlow is a lightweight, responsive web-based attendance management system designed to help students track their subject-wise attendance and maintain the required 75% attendance criteria.
 
